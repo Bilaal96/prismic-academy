@@ -1,0 +1,66 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"background_colour": {
+				"__TYPE__": "FieldContent",
+				"value": "Grey",
+				"type": "Select"
+			},
+			"text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Here's why users love using Prismic with Gatsby!",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ad fugiat reprehenderit ea in labore excepteur quis labore cupidatat. Cillum deserunt anim labore.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"embed": {
+				"embed_url": "https://www.youtube.com/watch?v=u3GoLKTwNwY",
+				"__TYPE__": "EmbedContent",
+				"type": "video",
+				"version": "1.0",
+				"title": "Gatsby with Prismic CMS #1 Setup and walkthrough",
+				"author_name": "For Those Who Code",
+				"author_url": "https://www.youtube.com/@forthosewhocode",
+				"provider_name": "YouTube",
+				"provider_url": "https://www.youtube.com/",
+				"thumbnail_url": "https://i.ytimg.com/vi/u3GoLKTwNwY/hqdefault.jpg",
+				"thumbnail_width": 480,
+				"thumbnail_height": 360,
+				"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/u3GoLKTwNwY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Gatsby with Prismic CMS #1 Setup and walkthrough\"></iframe>",
+				"all": {
+					"embed_url": "https://www.youtube.com/watch?v=u3GoLKTwNwY",
+					"type": "video",
+					"version": "1.0",
+					"title": "Gatsby with Prismic CMS #1 Setup and walkthrough",
+					"author_name": "For Those Who Code",
+					"author_url": "https://www.youtube.com/@forthosewhocode",
+					"provider_name": "YouTube",
+					"provider_url": "https://www.youtube.com/",
+					"thumbnail_url": "https://i.ytimg.com/vi/u3GoLKTwNwY/hqdefault.jpg",
+					"thumbnail_width": 480,
+					"thumbnail_height": 360,
+					"html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/u3GoLKTwNwY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Gatsby with Prismic CMS #1 Setup and walkthrough\"></iframe>",
+					"height": 113,
+					"width": 200
+				}
+			}
+		},
+		"items": []
+	}
+]
